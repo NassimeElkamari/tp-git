@@ -1,4 +1,3 @@
-
 export class Product {
    private _productId : number;
    private _productTitle : string;
